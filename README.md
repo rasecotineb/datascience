@@ -2,7 +2,7 @@
 
 <!-- TOC -->
 
-- [My DataScience Portfolio](#my-datascience-portfolio)
+ - [My DataScience Portfolio](#my-datascience-portfolio)
     - [Machine Learning](#machine-learning)
     - [Data Visualization](#data-visualization)
     - [Time Series](#time-series)
@@ -14,9 +14,13 @@
 <!-- /TOC -->
 
 ## Machine Learning
-Auto generate markdown navigation panel to the activity bar.
+Visitar notebook de [machine learning](https://www.google.com)
 
-![screenshot](./resources/screenshot.png)
+1. __Name__: Nombre del videojuego.
++ _Variable_: Cualitativa
+  + _MENSAJE_
++ _Tipo_: Nominal
+
 
 ## Data Visualization
 ```
