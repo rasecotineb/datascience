@@ -43,23 +43,25 @@ Y un segundo relacionado a visualización geo-espacial
 
 Muy aparte de lo mencionado anteriormente, he utilizado la librería de ```IPYWidgets``` para dotar de interactividad a los gráficos que se utilizan regularmente para el análisis exploratorio de datos: *heatmaps, boxplots, scatterplots, pairplots, etc*. De este modo, el usuario del negocio puede realizar un analisis dinámico y focalizado a a través de controles como: *range slider, combobox, radiobutton, label, etc*. 
 
-```
-ext install markdown-navigation
-```
 
 ## Time Series
-- Just open markdown document.
-- Navigation will auto update on document file saved.
+A continuación muestro algunos de los modelos que he venido trabajando en analisis de series temporales
+### Analisis Univariado
+1. **ARIMA**
+2. **SARIMA**
+
+### Analisis Multivariado
+1. **VAR**
+2. **VARMA**
 
 ## Data Mining
-[CHANGELOG](https://github.com/AlanWalk/markdown-navigation/blob/master/CHANGELOG.md)
+Resulta útil, sobre en todo en negocios con una alta transaccionalidad comercial como el caso de los retailers, la posibilidad de poder identificar patrones, por ejemplo, artículos que tienen una alta frecuencia de rotación conjunta. Esta información resulta en importantes insights para determinar los patrones de compra de los clientes y en base a ello diseñar, por ejemplo, estrategias de ventas cruzadas o publicidad focalizada en parte del portafolio de productos.
 
 ## Sentiment Analysis
-If you have any question, you can contact with me: 
-- Mail : [alanwalk93@gmail.com](mailto:alanwalk93@gmail.com)
-- Twitter : [@AlanWalk93](https://twitter.com/AlanWalk93)
-- Github : [AlanWalk](https://github.com/AlanWalk)
+A finales del mes de Junio, a raiz de la crisis sanitaria producto del COVID-19, se cuestionó que las clínicas privadas en Perú cobraban exorbitantes sumas por el tratamiento de pacientes infectados por el COVID-19 y que no tenían seguro privado. Ante esto el gobierno del Perú dio un ultimatum a las clínicas para llegar un acuerdo sobre las tarifas solidarias a cobrar por el tratamiento de pacientes con COVID-19
+
+Este proyecto tiene por finalidad medir la percepción de las personas en twitter sobre el acuerdo del gobierno con las clínicas privadas antes el COVID-19
 
 ## Exploratory Data Analysis
-The package is Open Source Software released under the [License](LICENSE). It's developed by AlanWalk.
+
 
