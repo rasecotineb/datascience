@@ -37,6 +37,12 @@ Visitar notebook de [machine learning](https://github.com/rasecotineb/datascienc
 
 
 ## Data Visualization
+Actualmente vengo trabajando en un par de iniciativas de visualización de datos:
+El primero de ellos tiene que ver con el uso de ***Dash*** de *plotly*.
+Y un segundo relacionado a visualización geo-espacial
+
+Muy aparte de lo mencionado anteriormente, he utilizado la librería de ```IPYWidgets``` para dotar de interactividad a los gráficos que se utilizan regularmente para el análisis exploratorio de datos: *heatmaps, boxplots, scatterplots, pairplots, etc*. De este modo, el usuario del negocio puede realizar un analisis dinámico y focalizado a a través de controles como: *range slider, combobox, radiobutton, label, etc*. 
+
 ```
 ext install markdown-navigation
 ```
