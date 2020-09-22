@@ -14,8 +14,8 @@
 <!-- /TOC -->
 
 ## Machine Learning
-El proyecto que se describe a continuación tiene por objetivo la predicción de una variable continua ***Importe Total Factura*** mediante el uso de diversos algoritmos de regresión en combinación con diferentes configuraciones de hiperparámetros
-Los algoritmos que se han probado son:
+El proyecto que se describe a continuación tiene por objetivo la predicción de una variable continua ***Importe Total Factura*** mediante el uso de diversos algoritmos de regresión en combinación con diferentes configuraciones de hiperparámetros.
+Los principales algoritmos que se han utilizado son:
 1. __Multiple linear regression__
 2. __SVR regressor__
 3. __Random Forest regressor__
