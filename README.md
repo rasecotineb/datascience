@@ -63,5 +63,6 @@ A finales del mes de Junio, a raiz de la crisis sanitaria producto del COVID-19,
 Este proyecto tiene por finalidad medir la percepción de las personas en twitter sobre el acuerdo del gobierno con las clínicas privadas antes el COVID-19
 
 ## Exploratory Data Analysis
+En análisis exploratorio de datos que se muestra a continuación se basa en el análisis descriptivo de la información de un dataset que permita el mayor entendimiento posible sobre la data mediante el uso de elementos gráficos como: *diagrama de barras, boxplot, heatmaps, entre otros*
 
 
