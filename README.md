@@ -2,7 +2,7 @@
 
 <!-- TOC -->
 
- - [My DataScience Portfolio](#my-datascience-portfolio)
+ - [My DataScience Portfolio](#analytics-portfolio)
     - [Machine Learning](#machine-learning)
     - [Data Visualization](#data-visualization)
     - [Time Series](#time-series)
