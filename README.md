@@ -1,4 +1,4 @@
-# My DataScience Portfolio
+# Analytics Portfolio
 
 <!-- TOC -->
 
