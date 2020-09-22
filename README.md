@@ -14,7 +14,7 @@
 <!-- /TOC -->
 
 ## Machine Learning
-Visitar notebook de [machine learning](https://www.google.com)
+Visitar notebook de [machine learning](https://github.com/rasecotineb/datascience/blob/master/machine-learning/Analisis_de_datos_Regresion_lineal_Machine_Learning_II_.ipynb)
 
 1. __Name__: Nombre del videojuego.
 + _Variable_: Cualitativa
