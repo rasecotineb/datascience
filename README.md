@@ -14,6 +14,20 @@
 <!-- /TOC -->
 
 ## Machine Learning
+El proyecto que se describe a continuación tiene por objetivo la predicción de una variable continua ***Importe Total Factura*** mediante el uso de diversos algoritmos de regresión en combinación con diferentes configuraciones de hiperparámetros
+Los algoritmos que se han probado son:
+1. __Multiple linear regression__
+2. __SVR regressor__
+3. __Random Forest regressor__
+4. __Ensemble Voting regressor__
+5. __Gradient Boosting__
+6. __ADABoost__
+7. __XGBoost__
+8. __Stacking Regressor__
+9. __MLP Regressor__
+> El proyecto aborda todas la etapas de un proyecto de datascience: entendimiento de la necesidad del negocio
+
+
 Visitar notebook de [machine learning](https://github.com/rasecotineb/datascience/blob/master/machine-learning/Analisis_de_datos_Regresion_lineal_Machine_Learning_II_.ipynb)
 
 1. __Name__: Nombre del videojuego.
