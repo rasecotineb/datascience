@@ -25,6 +25,11 @@ Los principales algoritmos que se han utilizado son:
 7. __XGBoost__
 8. __Stacking Regressor__
 9. __MLP Regressor__
+
+![alt text][resultados-ml]
+
+[resultados-ml]: https://github.com/rasecotineb/datascience/blob/master/machine-learning/resultados-machine-learning.JPG "Resultados de algoritmos ML"
+
 > El proyecto aborda todas la etapas de un proyecto de datascience: entendimiento de la necesidad del negocio
 
 
