@@ -80,7 +80,7 @@ Este proyecto tiene por finalidad medir la percepción de las personas en twitte
 
 ![alt text][roc-curve]
 
-[main-words]: https://github.com/rasecotineb/datascience/blob/master/sentiment-analysis/roc-curve-sentyment-analysis.JPG "Curva ROC"
+[roc-curve]: https://github.com/rasecotineb/datascience/blob/master/sentiment-analysis/roc-curve-sentyment-analysis.JPG "Curva ROC"
 
 >Tópicos: NLP, Bag of words, TFIDF, API Twitter, Naive Bayes
 ## Exploratory Data Analysis
