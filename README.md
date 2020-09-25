@@ -67,7 +67,7 @@ Resulta útil, sobre en todo en negocios con una alta transaccionalidad comercia
 
 ![alt text][insigths]
 
-[insights]: https://github.com/rasecotineb/datascience/blob/master/datamining/association-rules.JPG "Reglas de asociación - Patrones de consumo"
+[insigths]: https://github.com/rasecotineb/datascience/blob/master/datamining/association-rules.JPG "Reglas de asociación - Patrones de consumo"
 >Tópicos: Data pattern, insights, itemsets, association rules
 
 ## Sentiment Analysis
