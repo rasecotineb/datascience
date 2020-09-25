@@ -32,7 +32,7 @@ En el siguiente gráfico se puede observar, comparativamente, los resultados de 
 
 [resultados-ml]: https://github.com/rasecotineb/datascience/blob/master/machine-learning/resultados-machine-learning.JPG "Resultados de algoritmos ML"
 
-> El proyecto aborda todas la etapas de un proyecto de datascience: entendimiento de la necesidad del negocio
+> El proyecto aborda todas la etapas de un proyecto de datascience: entendimiento de la necesidad del negocio, comprensión de los datos, preprocesamiento de datos, evaluación de algoritmos
 
 
 Visitar notebook de [machine learning](https://github.com/rasecotineb/datascience/blob/master/machine-learning/Analisis_de_datos_Regresion_lineal_Machine_Learning_II_.ipynb)
