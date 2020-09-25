@@ -65,8 +65,10 @@ A continuación muestro algunos de los modelos que he venido trabajando en anali
 ## Data Mining
 Resulta útil, sobre en todo en negocios con una alta transaccionalidad comercial como el caso de los retailers, la posibilidad de poder identificar patrones, por ejemplo, artículos que tienen una alta frecuencia de rotación conjunta. Esta información resulta en importantes insights para determinar los patrones de compra de los clientes y en base a ello diseñar, por ejemplo, estrategias de ventas cruzadas o publicidad focalizada en parte del portafolio de productos.
 
+![alt text][insigths]
 
->Tópicos: Data pattern, insights, itemsets
+[insights]: https://github.com/rasecotineb/datascience/blob/master/datamining/association-rules.JPG "Reglas de asociación - Patrones de consumo"
+>Tópicos: Data pattern, insights, itemsets, association rules
 
 ## Sentiment Analysis
 A finales del mes de Junio, a raiz de la crisis sanitaria producto del COVID-19, se cuestionó que las clínicas privadas en Perú cobraban exorbitantes sumas por el tratamiento de pacientes infectados por el COVID-19 y que no tenían seguro privado. Ante esto el gobierno del Perú dio un ultimatum a las clínicas para llegar un acuerdo sobre las tarifas solidarias a cobrar por el tratamiento de pacientes con COVID-19
