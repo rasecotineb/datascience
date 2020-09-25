@@ -64,6 +64,9 @@ A continuación muestro algunos de los modelos que he venido trabajando en anali
 >Tópicos: Stationarity, Seasonality, ADF, Log transformation, Box-cox transformation, Autocorrelation, Partial Autocorrelation
 ## Data Mining
 Resulta útil, sobre en todo en negocios con una alta transaccionalidad comercial como el caso de los retailers, la posibilidad de poder identificar patrones, por ejemplo, artículos que tienen una alta frecuencia de rotación conjunta. Esta información resulta en importantes insights para determinar los patrones de compra de los clientes y en base a ello diseñar, por ejemplo, estrategias de ventas cruzadas o publicidad focalizada en parte del portafolio de productos.
+
+Visitar notebook de [sentiment analysis](https://github.com/rasecotineb/datascience/blob/master/sentiment-analysis/Twitter_Analisis_de_Sentimientos.ipynb)
+
 >Tópicos: Data pattern, insights, itemsets
 
 ## Sentiment Analysis
