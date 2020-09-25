@@ -65,7 +65,6 @@ A continuación muestro algunos de los modelos que he venido trabajando en anali
 ## Data Mining
 Resulta útil, sobre en todo en negocios con una alta transaccionalidad comercial como el caso de los retailers, la posibilidad de poder identificar patrones, por ejemplo, artículos que tienen una alta frecuencia de rotación conjunta. Esta información resulta en importantes insights para determinar los patrones de compra de los clientes y en base a ello diseñar, por ejemplo, estrategias de ventas cruzadas o publicidad focalizada en parte del portafolio de productos.
 
-Visitar notebook de [sentiment analysis](https://github.com/rasecotineb/datascience/blob/master/sentiment-analysis/Twitter_Analisis_de_Sentimientos.ipynb)
 
 >Tópicos: Data pattern, insights, itemsets
 
@@ -84,6 +83,8 @@ Este proyecto tiene por finalidad medir la percepción de las personas en twitte
 ![alt text][roc-curve]
 
 [roc-curve]: https://github.com/rasecotineb/datascience/blob/master/sentiment-analysis/roc-curve-sentyment-analysis.JPG "Curva ROC"
+
+Visitar notebook de [sentiment analysis](https://github.com/rasecotineb/datascience/blob/master/sentiment-analysis/Twitter_Analisis_de_Sentimientos.ipynb)
 
 >Tópicos: NLP, Bag of words, TFIDF, API Twitter, Naive Bayes
 ## Exploratory Data Analysis
