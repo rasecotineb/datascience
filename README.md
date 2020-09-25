@@ -25,7 +25,7 @@ Los principales algoritmos que se han utilizado son:
 7. __XGBoost__
 8. __Stacking Regressor__
 9. __MLP Regressor__
-
+En el siguiente gráfico se puede observar, comparativamente, los resultados de los diferentes algoritmos de ML  basado en el coeficiente de determinación R2
 ![alt text][resultados-ml]
 
 [resultados-ml]: https://github.com/rasecotineb/datascience/blob/master/machine-learning/resultados-machine-learning.JPG "Resultados de algoritmos ML"
