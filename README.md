@@ -82,7 +82,7 @@ A finales del mes de Junio, a raiz de la crisis sanitaria producto del COVID-19,
 
 
 
-En la siguiente gráfica se puede apreciar la nube de palabras predominantes en twitter sobre el acuerdo del gobierno con las clínicas privadas antes el COVID-19.
+En la siguiente gráfica se puede apreciar la nube de palabras predominantes en twitter sobre el acuerdo del gobierno con las clínicas privadas sobre el COVID-19.
 
 
 ![alt text][main-words]
