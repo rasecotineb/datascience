@@ -77,7 +77,9 @@ Visitar notebook de [datamining](https://github.com/rasecotineb/datascience/blob
 >Tópicos: Data pattern, insights, itemsets, association rules
 
 ## 5. Sentiment Analysis
-A finales del mes de Junio, a raiz de la crisis sanitaria producto del COVID-19, se cuestionó que las clínicas privadas en Perú cobraban exorbitantes sumas por el tratamiento de pacientes infectados por el COVID-19 y que no tenían seguro privado. Ante esto el gobierno del Perú dio un ultimatum a las clínicas para llegar un acuerdo sobre las tarifas solidarias a cobrar por el tratamiento de pacientes con COVID-19
+### Problem Statement
+A finales del mes de Junio, a raiz de la crisis sanitaria producto del COVID-19, se cuestionó que las clínicas privadas en Perú cobraban exorbitantes sumas por el tratamiento de pacientes infectados por el COVID-19 y que no tenían seguro privado. Ante esto el gobierno del Perú dio un ultimatum a las clínicas para llegar un acuerdo sobre las tarifas solidarias a cobrar por el tratamiento de pacientes con COVID-19. Ante esto se plantea conocer la percepción de la gente, su posición acerca de los anuncios dados por el gobierno sin necesidad de esperar una encuesta que tomaría más tiempo y recursos
+
 
 
 Este proyecto tiene por finalidad medir la percepción de las personas en twitter sobre el acuerdo del gobierno con las clínicas privadas antes el COVID-19
