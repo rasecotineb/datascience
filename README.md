@@ -3,7 +3,7 @@
 <!-- TOC -->
 
  - [My DataScience Portfolio](#analytics-portfolio)
-    - [1.](#machine-learning) Machine Learning]
+    - [1.](#machine-learning) Machine Learning
     - [2. Data Visualization](#data-visualization)
     - [3. Time Series](#time-series)
     - [4. Data Mining](#data-mining)
