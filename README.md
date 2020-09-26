@@ -4,11 +4,11 @@
 
  - [My DataScience Portfolio](#analytics-portfolio)
     - [1. Machine Learning](#1-machine-learning) 
-    - [2. Data Visualization](#data-visualization)
-    - [3. Time Series](#time-series)
-    - [4. Data Mining](#data-mining)
-    - [Sentiment Analysis](#sentiment-analysis)
-    - [6. Exploratory Data Analysis](#exploratory-data-analysis)
+    - [2. Data Visualization](#2-data-visualization)
+    - [3. Time Series](#3-time-series)
+    - [4. Data Mining](#4-data-mining)
+    - [Sentiment Analysis](#5-sentiment-analysis)
+    - [6. Exploratory Data Analysis](#6-exploratory-data-analysis)
 
 
 <!-- /TOC -->
