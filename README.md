@@ -64,6 +64,8 @@ A continuación muestro algunos de los modelos que he venido trabajando en anali
 >Tópicos: Stationarity, Seasonality, ADF, Log transformation, Box-cox transformation, Autocorrelation, Partial Autocorrelation
 ## Data Mining
 Resulta útil, sobre en todo en negocios con una alta transaccionalidad comercial como el caso de los retailers, la posibilidad de poder identificar patrones, por ejemplo, artículos que tienen una alta frecuencia de rotación conjunta. Esta información resulta en importantes insights para determinar los patrones de compra de los clientes y en base a ello diseñar, por ejemplo, estrategias de ventas cruzadas o publicidad focalizada en parte del portafolio de productos.
+### Problem Statement
+Se cuenta con una empresa de consumo masivo que desea identificar patrones de consumo a partir de la data transaccional de las ventas a sus clientes. A partir de esta iniciativa podrá identificar cuáles son las combinaciones de productos con mayor frecuencia de venta y como se afecta la compra de un producto en función a otros. 
 
 ![alt text][insigths]
 
