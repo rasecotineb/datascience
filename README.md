@@ -7,7 +7,7 @@
     - [2. Data Visualization](#2-data-visualization)
     - [3. Time Series](#3-time-series)
     - [4. Data Mining](#4-data-mining)
-    - [Sentiment Analysis](#5-sentiment-analysis)
+    - [5. Sentiment Analysis](#5-sentiment-analysis)
     - [6. Exploratory Data Analysis](#6-exploratory-data-analysis)
 
 
