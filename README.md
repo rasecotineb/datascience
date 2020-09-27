@@ -97,7 +97,7 @@ La curva ROC que se muestra a continuación muestra la relacion entre la tasa de
 
 Visitar notebook de [sentiment analysis](https://github.com/rasecotineb/datascience/blob/master/sentiment-analysis/Twitter_Analisis_de_Sentimientos.ipynb)
 
->Tópicos: NLP, Bag of words, TFIDF, API Twitter, Naive Bayes
+>Tópicos: NLP, Bag of words, TFIDF, API Twitter, Naive Bayes, Logistic Regression
 ## 6. Exploratory Data Analysis
 En análisis exploratorio de datos que se muestra a continuación se basa en el análisis descriptivo de la información de un dataset que permita el mayor entendimiento posible sobre la data mediante el uso de elementos gráficos como: *diagrama de barras, boxplot, heatmaps, entre otros*
 >Tópicos: Plotting, Boxplot, Correlation
