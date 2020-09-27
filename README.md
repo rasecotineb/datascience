@@ -89,6 +89,7 @@ En la siguiente gráfica se puede apreciar la nube de palabras predominantes en 
 
 [main-words]: https://github.com/rasecotineb/datascience/blob/master/sentiment-analysis/main-words-pos.JPG "Nube de palabras"
 
+La curva ROC que se muestra a continuación muestra la relacion entre la tasa de *verdaderos positivos (TPR)* y *falsos positivos (FPR)* y la performance del modelo de clasificación para diferentes valores de *thresholds*.
 
 ![alt text][roc-curve]
 
