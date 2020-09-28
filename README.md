@@ -57,12 +57,12 @@ Para el análisis dinámico de correlación con el apoyo visual de un *heatmap*,
 
 [heatmap]: https://github.com/rasecotineb/datascience/blob/master/data-visualization/heatmap.JPG "Heatmap"
 
-Para este caso, el usuario cuenta con más opciones para el análisis dinámico de la distribución de las variables numéricas mediante el uso de *boxplots*: *combobox* para la selección de variables a analizar,  *slider* dinámico en función a la variable seleccionada en el *combobox*, *radiobutton* para descartar o no la presencia de outliers en los *boxplots*
+Para este último caso, el usuario cuenta con más opciones para el análisis dinámico de la distribución de las variables numéricas mediante el uso de *boxplots*: *combobox* para la selección de variables a analizar,  *slider* dinámico en función a la variable seleccionada en el *combobox*, *radiobutton* para descartar o no la presencia de outliers en los *boxplots*
 ![alt text][boxplot]
 
 [boxplot]: https://github.com/rasecotineb/datascience/blob/master/data-visualization/boxplot.JPG "Boxplot"
 
-Cada una de las gráficas anteriores se encuentran contenidas en diferentes *tabs* de un contenedor, de esta manera el usuario tiene una visualización más ordenada de las opciones que tiene disponibles para iniciar su proceso exploratorio de datos.
+Cada una de las gráficas anteriores se encuentran contenidas en diferentes *tabs* o *pestañas*, de esta manera el usuario tiene una visualización más ordenada de las opciones que tiene disponibles para iniciar su proceso exploratorio de datos, sin que la excesiva aparición de controles lo intimide.
 
 >Tópicos: Geolocalizacion, Dashboard, Frontend, IPYWidgets, User interaction
 
