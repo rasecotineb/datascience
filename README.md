@@ -61,6 +61,9 @@ Para este caso, el usuario cuenta con más opciones para el análisis dinámico 
 ![alt text][boxplot]
 
 [boxplot]: https://github.com/rasecotineb/datascience/blob/master/data-visualization/boxplot.JPG "Boxplot"
+
+Cada una de las gráficas anteriores se encuentran contenidas en diferentes *tabs* de un contenedor, de esta manera el usuario tiene una visualización más ordenada de las opciones que tiene disponibles para iniciar su proceso exploratorio de datos.
+
 >Tópicos: Geolocalizacion, Dashboard, Frontend, IPYWidgets, User interaction
 
 ## 3. Time Series
