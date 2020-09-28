@@ -55,14 +55,16 @@ Muy aparte de lo mencionado anteriormente, he utilizado la librería de ```IPYWi
 A continuación muestro algunos de los modelos que he venido trabajando en analisis de series temporales
 ### Analisis Univariado
 1. **ARIMA**
-Presentación del modelo autoregresivo integrado con medias móviles
+Presentación del modelo autoregresivo integrado con medias móviles.
+
 Visitar notebook de [ARIMA](https://github.com/rasecotineb/datascience/blob/master/time-series/ModeloARIMA.ipynb)
 2. **SARIMA**
 Presentación de la generalización del modelo ARIMA con el componente estacional
 
 ### Analisis Multivariado
 1. **VAR**
-Presentación del modelo autoregresivo con más de una serie temporal
+Presentación del modelo autoregresivo con más de una serie temporal.
+
 Visitar notebook de [VAR](https://github.com/rasecotineb/datascience/blob/master/time-series/ModeloVAR.ipynb)
 2. **VARMA**
 
