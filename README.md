@@ -52,8 +52,9 @@ Muy aparte de lo mencionado anteriormente, he utilizado la librería de ```IPYWi
 >Tópicos: Geolocalizacion, Dashboard, Frontend
 
 ## 3. Time Series
-El análisis y modelado de series temporales viene captando el interés de las empresas que buscan optimizar sus predicciones en base a información histórica temporal como pueden ser sus ventas que, muchas veces, atraviesan estacionalidad.
+El análisis y modelado de series temporales viene captando el interés de las empresas que buscan optimizar sus predicciones en base a información histórica temporal como pueden ser sus ventas que, muchas veces, presentan estacionalidad.
 
+En el siguiente gráfico se muestra la tendencia de búsquedas en *Google* sobre este tópico en los últimos 5 años
 ![alt text][time-series-trend]
 
 [time-series-trend]: https://github.com/rasecotineb/datascience/blob/master/time-series/time-series-trend.JPG "Tendencia sobre interés en series temporales durante los últimos 5 años "
