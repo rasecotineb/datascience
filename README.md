@@ -37,10 +37,6 @@ En el siguiente gráfico se puede observar, comparativamente, los resultados de 
 
 Visitar notebook de [machine learning](https://github.com/rasecotineb/datascience/blob/master/machine-learning/Analisis_de_datos_Regresion_lineal_Machine_Learning_II_.ipynb)
 
-1. __Name__: Nombre del videojuego.
-+ _Variable_: Cualitativa
-  + _MENSAJE_
-+ _Tipo_: Nominal
 
 
 ## 2. Data Visualization
@@ -49,7 +45,19 @@ El primero de ellos tiene que ver con el uso de ***Dash*** de *plotly*.
 Y un segundo relacionado a visualización geo-espacial
 
 Muy aparte de lo mencionado anteriormente, he utilizado la librería de ```IPYWidgets``` para dotar de interactividad a los gráficos que se utilizan regularmente para el análisis exploratorio de datos: *heatmaps, boxplots, scatterplots, pairplots, etc*. De este modo, el usuario del negocio puede realizar un analisis dinámico y focalizado a través de controles como: *range slider, combobox, radiobutton, label, etc*. 
->Tópicos: Geolocalizacion, Dashboard, Frontend
+
+![alt text][pairplot]
+
+[pairplot]: https://github.com/rasecotineb/datascience/blob/master/data-visualization/pairplot.JPG "Pairplot"
+
+![alt text][heatmap]
+
+[heatmap]: https://github.com/rasecotineb/datascience/blob/master/data-visualization/heatmap.JPG "Heatmap"
+
+![alt text][boxplot]
+
+[boxplot]: https://github.com/rasecotineb/datascience/blob/master/machine-learning/resultados-machine-learning.JPG "Boxplot"
+>Tópicos: Geolocalizacion, Dashboard, Frontend, IPYWidgets, User interaction
 
 ## 3. Time Series
 El análisis y modelado de series temporales viene captando el interés de las empresas que buscan optimizar sus predicciones en base a información histórica temporal como pueden ser sus ventas que, muchas veces, presentan estacionalidad.
