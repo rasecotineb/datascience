@@ -52,6 +52,8 @@ Muy aparte de lo mencionado anteriormente, he utilizado la librería de ```IPYWi
 >Tópicos: Geolocalizacion, Dashboard, Frontend
 
 ## 3. Time Series
+El análisis y modelado de series temporales viene captando el interés de las empresas que buscan optimizar sus predicciones en base a información histórica temporal como pueden ser sus ventas que atraviesan estacionalidad.
+
 A continuación muestro algunos de los modelos que he venido trabajando en analisis de series temporales
 ### Analisis Univariado
 1. **ARIMA**
@@ -64,7 +66,7 @@ Visitar notebook de [ARIMA](https://github.com/rasecotineb/datascience/blob/mast
 
 Presentación de la generalización del modelo ARIMA con el componente estacional
 
-Visitar notebook de [SARIMA](https://github.com/rasecotineb/datascience/blob/master/time-series/ModeloVAR.ipynb)
+Visitar notebook de [SARIMA](https://github.com/rasecotineb/datascience/blob/master/time-series/ModeloSARIMA.ipynb)
 
 ### Analisis Multivariado
 1. **VAR**
