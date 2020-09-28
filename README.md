@@ -42,21 +42,25 @@ Visitar notebook de [machine learning](https://github.com/rasecotineb/datascienc
 ## 2. Data Visualization
 Actualmente vengo trabajando en un par de iniciativas de visualización de datos:
 El primero de ellos tiene que ver con el uso de ***Dash*** de *plotly*.
-Y un segundo relacionado a visualización geo-espacial
+Y un segundo relacionado a visualización geo-espacial (GIS)
 
-Muy aparte de lo mencionado anteriormente, he utilizado la librería de ```IPYWidgets``` para dotar de interactividad a los gráficos que se utilizan regularmente para el análisis exploratorio de datos: *heatmaps, boxplots, scatterplots, pairplots, etc*. De este modo, el usuario del negocio puede realizar un analisis dinámico y focalizado a través de controles como: *range slider, combobox, radiobutton, label, etc*. 
+Muy aparte de lo mencionado anteriormente, he utilizado la librería de `IPYWidgets` para dotar de interactividad a los gráficos que se utilizan regularmente para el análisis exploratorio de datos: *heatmaps, boxplots, scatterplots, pairplots, etc*. De este modo, el usuario del negocio puede realizar un analisis dinámico y focalizado a través de controles como: *range slider, combobox, radiobutton, label, etc*. 
 
+En la siguiente figura se puede observar que el usuario tiene disponible la opción de utilizar un slider para modificar el rango de la variable *Cuota C.U* y observar como los gráficos se van ajustando a su criterio de análisis de forma dinámica
 ![alt text][pairplot]
 
 [pairplot]: https://github.com/rasecotineb/datascience/blob/master/data-visualization/pairplot.JPG "Pairplot"
 
+
+Para el análisis dinámico de correlación con el apoyo visual de un *heatmap*, el usuario cuenta con 2 sliders: uno para la variable target *Importe Total Factura S/.* y el otro para   *Cuota C.U*
 ![alt text][heatmap]
 
 [heatmap]: https://github.com/rasecotineb/datascience/blob/master/data-visualization/heatmap.JPG "Heatmap"
 
+Para este caso, el usuario cuenta con más opciones para el análisis dinámico de la distribución de las variables numéricas mediante el uso de *boxplots*: *combobox* para la selección de variables a analizar,  *slider* dinámico en función a la variable seleccionada en el *combobox*, *radiobutton* para descartar o no la presencia de outliers en los *boxplots*
 ![alt text][boxplot]
 
-[boxplot]: https://github.com/rasecotineb/datascience/blob/master/machine-learning/resultados-machine-learning.JPG "Boxplot"
+[boxplot]: https://github.com/rasecotineb/datascience/blob/master/data-visualization/boxplot.JPG "Boxplot"
 >Tópicos: Geolocalizacion, Dashboard, Frontend, IPYWidgets, User interaction
 
 ## 3. Time Series
