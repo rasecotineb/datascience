@@ -136,23 +136,23 @@ Visitar notebook de [sentiment analysis](https://github.com/rasecotineb/datascie
 ## 6. Exploratory Data Analysis
 En análisis exploratorio de datos que se muestra a continuación se basa en el análisis descriptivo de la información de un dataset que permita el mayor entendimiento posible sobre la data mediante el uso de elementos gráficos como: *diagrama de barras, boxplot, heatmaps, entre otros*
 
-![alt text][resultados-ml]
+![alt text][box-hist]
 
-[resultados-ml]: https://github.com/rasecotineb/datascience/blob/master/eda/EDA1.JPG "Resultados de algoritmos ML"
-
-
-![alt text][resultados-ml]
-
-[resultados-ml]: https://github.com/rasecotineb/datascience/blob/master/eda/EDA2.JPG "Resultados de algoritmos ML"
+[box-hist]: https://github.com/rasecotineb/datascience/blob/master/eda/EDA1.JPG "Boxplot + Histograma"
 
 
-![alt text][resultados-ml]
+![alt text][bar]
 
-[resultados-ml]: https://github.com/rasecotineb/datascience/blob/master/eda/EDA4.JPG "Resultados de algoritmos ML"
+[bar]: https://github.com/rasecotineb/datascience/blob/master/eda/EDA2.JPG "Diagrama de barras"
 
 
-![alt text][resultados-ml]
+![alt text][bar-stacked]
 
-[resultados-ml]: https://github.com/rasecotineb/datascience/blob/master/eda/EDA3.JPG "Resultados de algoritmos ML"
+[bar-stacked]: https://github.com/rasecotineb/datascience/blob/master/eda/EDA4.JPG "Diagrama de barras - Stack"
+
+
+![alt text][correlacion]
+
+[correlacion]: https://github.com/rasecotineb/datascience/blob/master/eda/EDA3.JPG "Correlacion de variables"
 
 >Tópicos: Plotting, Boxplot, Correlation, R
