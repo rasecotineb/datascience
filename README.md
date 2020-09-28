@@ -60,7 +60,7 @@ En el siguiente gráfico se muestra la tendencia de búsquedas en *Google* sobre
 [time-series-trend]: https://github.com/rasecotineb/datascience/blob/master/time-series/time-series-trend.JPG "Tendencia sobre interés en series temporales durante los últimos 5 años "
 
 A continuación muestro algunos de los modelos que he venido trabajando en analisis de series temporales
-### Analisis Univariado
+### Análisis Univariado
 1. **ARIMA**
 
 Presentación del modelo autoregresivo integrado con medias móviles.
@@ -73,7 +73,7 @@ Presentación de la generalización del modelo ARIMA con el componente estaciona
 
 Visitar notebook de [SARIMA](https://github.com/rasecotineb/datascience/blob/master/time-series/ModeloSARIMA.ipynb)
 
-### Analisis Multivariado
+### Análisis Multivariado
 1. **VAR**
 
 Presentación del modelo autoregresivo con más de una serie temporal.
