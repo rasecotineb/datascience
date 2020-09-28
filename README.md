@@ -103,7 +103,7 @@ Resulta útil, sobre en todo en negocios con una alta transaccionalidad comercia
 Se cuenta con una empresa de consumo masivo que desea identificar patrones de consumo a partir de la data transaccional de las ventas a sus clientes. A partir de esta iniciativa podrá identificar cuáles son las combinaciones de productos con mayor frecuencia de venta y como se afecta la compra de un producto en función a otros. 
 
 La siguiente gráfica muestra la solución al problema planteado: se identifica claramente patrones de consumo con un nivel de certeza específico y con un umbral de frecuencia relevante mínimo.
-La primera línea del cuadro se puede interpretar de la siguiente manera: *Todos aquellos cliente que compran el item 7 han comprado también el item 20 con una frecuencia de 9 veces y con un nivel de confianza de 81.82%, es decir que esas 9 veces del patrón 7->20, corresponde al 81.82% de todas las compras del item 7*
+La primera línea del cuadro se puede interpretar de la siguiente manera: *Todos aquellos clientes que compran el item 7 han comprado también el item 20 con una frecuencia de 9 veces y con un nivel de confianza de 81.82%, es decir que esas 9 veces del patrón 7->20, corresponde al 81.82% de todas las compras del item 7*
 
 ![alt text][insigths]
 
@@ -135,4 +135,24 @@ Visitar notebook de [sentiment analysis](https://github.com/rasecotineb/datascie
 >Tópicos: NLP, Bag of words, TFIDF, API Twitter, Naive Bayes, Logistic Regression
 ## 6. Exploratory Data Analysis
 En análisis exploratorio de datos que se muestra a continuación se basa en el análisis descriptivo de la información de un dataset que permita el mayor entendimiento posible sobre la data mediante el uso de elementos gráficos como: *diagrama de barras, boxplot, heatmaps, entre otros*
->Tópicos: Plotting, Boxplot, Correlation
+
+![alt text][resultados-ml]
+
+[resultados-ml]: https://github.com/rasecotineb/datascience/blob/master/eda/EDA1.JPG "Resultados de algoritmos ML"
+
+
+![alt text][resultados-ml]
+
+[resultados-ml]: https://github.com/rasecotineb/datascience/blob/master/eda/EDA2.JPG "Resultados de algoritmos ML"
+
+
+![alt text][resultados-ml]
+
+[resultados-ml]: https://github.com/rasecotineb/datascience/blob/master/eda/EDA4.JPG "Resultados de algoritmos ML"
+
+
+![alt text][resultados-ml]
+
+[resultados-ml]: https://github.com/rasecotineb/datascience/blob/master/eda/EDA3.JPG "Resultados de algoritmos ML"
+
+>Tópicos: Plotting, Boxplot, Correlation, R
