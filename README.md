@@ -141,14 +141,20 @@ En análisis exploratorio de datos que se muestra a continuación se basa en el 
 [box-hist]: https://github.com/rasecotineb/datascience/blob/master/eda/EDA1.JPG "Boxplot + Histograma"
 
 
+
+
 ![alt text][bar]
 
 [bar]: https://github.com/rasecotineb/datascience/blob/master/eda/EDA2.JPG "Diagrama de barras"
 
 
+
+
 ![alt text][bar-stacked]
 
 [bar-stacked]: https://github.com/rasecotineb/datascience/blob/master/eda/EDA4.JPG "Diagrama de barras - Stack"
+
+
 
 
 ![alt text][correlacion]
